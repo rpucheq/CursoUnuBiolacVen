@@ -24,7 +24,7 @@ Practica el uso de la redirección `(>, >>)` y las tuberías `|` para manipular 
 ### 4. Procesamiento de texto: 
 Usa comandos como `cat`, `less`, `head`, `tail`, `sort`, `uniq` y `grep` para ver y procesar archivos de texto.
 
-## Tutorial
+[0800-Comandos](Intro_CLI.md) 
 
 # Práctico 2 - Introducción a R y RStudio
 [Tutorial](Intro_R.md) 
