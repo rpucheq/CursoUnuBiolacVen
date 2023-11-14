@@ -27,3 +27,4 @@ y <- 4 + 5 # asignamos el resultado de la suma a una variable llamada y
 z <- x + y # asignamos el resultado de la suma de x e y a una variable llamada z
 z # mostramos el valor de la variable z
 ```
+
