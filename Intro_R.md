@@ -20,3 +20,10 @@ Una vez instalados R y RStudio, podemos abrir RStudio y veremos una ventana divi
 ```{r}
 2 + 3
 ```
+### Asignacion de Variables
+```{r}
+x <- 2 + 3 # asignamos el resultado de la suma a una variable llamada x
+y <- 4 + 5 # asignamos el resultado de la suma a una variable llamada y
+z <- x + y # asignamos el resultado de la suma de x e y a una variable llamada z
+z # mostramos el valor de la variable z
+```
