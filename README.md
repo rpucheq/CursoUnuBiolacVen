@@ -1,4 +1,4 @@
-# CursoUnuBiolacVen 2023
+# CursoUnuBiolacVen 2023 - Dia 1 (Martes)
 Repositorio de informacion para el Curso UnuBiolac Venezuela (INHRR)
 
 -Rafael Puche
