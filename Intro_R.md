@@ -37,3 +37,9 @@ R puede trabajar con diferentes tipos de datos, como números, caracteres, lógi
 TRUE & FALSE # operación lógica
 as.Date("2023-11-12") # conversión a fecha
 ```
+
+class(2 + 3)
+class("R" + "Studio")
+class(TRUE & FALSE)
+class(as.Date("2023-11-12"))
+
