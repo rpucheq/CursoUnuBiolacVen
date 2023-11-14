@@ -48,3 +48,6 @@ class(as.Date("2023-11-12"))
 
 ### A quien pedir ayuda
 Para obtener ayuda sobre una función o un paquete de R, puedes usar la función `help()` o el símbolo `?`. Por ejemplo, si escribes help(mean) o `?mean` y presionas Enter, verás la documentación de la función mean, que calcula la media de un conjunto de datos. También puedes usar la función `example()` para ver ejemplos de uso de una función. Por ejemplo, si escribes `example(mean)` y presionas Enter, verás algunos ejemplos de cómo usar la función mean.
+
+### Instalacion de Paquetes
+Para instalar un paquete de R que no viene por defecto, puedes usar la función install.packages(). Por ejemplo, si escribes install.packages("ggplot2") y presionas Enter, instalarás el paquete ggplot2, que es uno de los más populares para crear gráficos en R. Para cargar un paquete que ya has instalado, puedes usar la función library(). Por ejemplo, si escribes library(ggplot2) y presionas Enter, cargarás el paquete ggplot2 y podrás usar sus funciones.
