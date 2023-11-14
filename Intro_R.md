@@ -38,8 +38,11 @@ TRUE & FALSE # operación lógica
 as.Date("2023-11-12") # conversión a fecha
 ```
 
+### Como ver que tipos de datos son:
+```{r}
 class(2 + 3)
 class("R" + "Studio")
 class(TRUE & FALSE)
 class(as.Date("2023-11-12"))
+```
 
