@@ -47,4 +47,4 @@ class(as.Date("2023-11-12"))
 ```
 
 ### A quien pedir ayuda
-Para obtener ayuda sobre una función o un paquete de R, puedes usar la función `help()` o el símbolo ?. Por ejemplo, si escribes help(mean) o `?mean` y presionas Enter, verás la documentación de la función mean, que calcula la media de un conjunto de datos. También puedes usar la función `example()` para ver ejemplos de uso de una función. Por ejemplo, si escribes `example(mean)` y presionas Enter, verás algunos ejemplos de cómo usar la función mean.
+Para obtener ayuda sobre una función o un paquete de R, puedes usar la función `help()` o el símbolo `?`. Por ejemplo, si escribes help(mean) o `?mean` y presionas Enter, verás la documentación de la función mean, que calcula la media de un conjunto de datos. También puedes usar la función `example()` para ver ejemplos de uso de una función. Por ejemplo, si escribes `example(mean)` y presionas Enter, verás algunos ejemplos de cómo usar la función mean.
