@@ -28,3 +28,12 @@ z <- x + y # asignamos el resultado de la suma de x e y a una variable llamada z
 z # mostramos el valor de la variable z
 ```
 
+## Tipos de datos y estructuras de datos en R
+R puede trabajar con diferentes tipos de datos, como números, caracteres, lógicos, fechas, etc. Cada tipo de dato tiene sus propias características y operaciones. Por ejemplo, podemos escribir en la consola:
+
+```{r}
+2 + 3 # suma de números
+"R" + "Studio" # concatenación de caracteres
+TRUE & FALSE # operación lógica
+as.Date("2023-11-12") # conversión a fecha
+```
