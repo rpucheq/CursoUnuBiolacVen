@@ -1,6 +1,8 @@
 # CursoUnuBiolacVen 2023
 Repositorio de informacion para el Curso UnuBiolac Venezuela (INHRR)
 
+Rafael Puche
+
 # Practico 1 - Linea de Comandos
 ## Temario
 
