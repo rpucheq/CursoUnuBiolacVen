@@ -15,3 +15,8 @@ Una vez instalados R y RStudio, podemos abrir RStudio y veremos una ventana divi
 2. El panel inferior izquierdo es la consola, donde podemos ejecutar nuestro código en R y ver los resultados.
 3. El panel superior derecho es el entorno, donde podemos ver los objetos que hemos creado en R, como variables, funciones, datos, etc.
 4. El panel inferior derecho es el visor, donde podemos ver los gráficos que hemos generado en R, así como acceder a otras herramientas, como el explorador de archivos, el historial de comandos, el gestor de paquetes, la ayuda, etc.
+
+## Comandos
+```{r}
+2 + 3
+```
