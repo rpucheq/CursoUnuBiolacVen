@@ -7,3 +7,11 @@ Para empezar a usar R, necesitamos instalar dos programas: R y RStudio. R es el 
 Para instalar R, debemos ir a la página web oficial de R y descargar la versión adecuada para nuestro sistema operativo. Una vez descargado el archivo, lo ejecutamos y seguimos las instrucciones del instalador.
 
 Para instalar RStudio, debemos ir a la página web oficial de RStudio y descargar la versión gratuita de RStudio Desktop para nuestro sistema operativo. Una vez descargado el archivo, lo ejecutamos y seguimos las instrucciones del instalador.
+
+## Primeros pasos con R y RStudio
+Una vez instalados R y RStudio, podemos abrir RStudio y veremos una ventana dividida en cuatro paneles:
+
+1 El panel superior izquierdo es el editor de scripts, donde podemos escribir y guardar nuestro código en R.
+2. El panel inferior izquierdo es la consola, donde podemos ejecutar nuestro código en R y ver los resultados.
+3. El panel superior derecho es el entorno, donde podemos ver los objetos que hemos creado en R, como variables, funciones, datos, etc.
+4. El panel inferior derecho es el visor, donde podemos ver los gráficos que hemos generado en R, así como acceder a otras herramientas, como el explorador de archivos, el historial de comandos, el gestor de paquetes, la ayuda, etc.
