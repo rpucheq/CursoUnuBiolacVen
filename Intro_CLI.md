@@ -10,4 +10,10 @@ Los comandos son palabras o abreviaturas que indican al sistema operativo qué a
 
 - `pwd`: muestra el directorio actual o la ruta de acceso completa donde estás trabajando.
 - `ls`: lista los archivos y directorios que hay en el directorio actual. Puedes usar la opción -l para ver más detalles, como el tamaño, la fecha y los permisos de los archivos, o la opción -a para ver también los archivos ocultos.
-- 
+- `cd`: cambia el directorio actual al que se indica como argumento. Puedes usar cd .. para ir al directorio padre o `cd ~` para ir al directorio home o raíz.
+- `mkdir`: crea un nuevo directorio con el nombre que se indica como argumento.
+- `cp`: copia el archivo o directorio que se indica como primer argumento al destino que se indica como segundo argumento. Puedes usar la opción -r para copiar recursivamente un directorio y todo su contenido
+- `mv`:  mueve o renombra el archivo o directorio que se indica como primer argumento al destino que se indica como segundo argumento.
+- `head`: muestra las primeras líneas del archivo que se indica como argumento. Puedes usar la opción -n para especificar el número de líneas que quieres ver.
+- `tail`: muestra las últimas líneas del archivo que se indica como argumento. Puedes usar la opción -n para especificar el número de líneas que quieres ver.
+- `grep`: busca un patrón o una palabra en el archivo o directorio que se indica como argumento. Puedes usar la opción -i para ignorar las mayúsculas y minúsculas, la opción -v para mostrar las líneas que no coinciden con el patrón, o la opción -c para contar el número de coincidencias.
