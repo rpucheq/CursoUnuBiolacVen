@@ -29,9 +29,9 @@ Usa comandos como `cat`, `less`, `head`, `tail`, `sort`, `uniq` y `grep` para ve
 # Práctico 2 - Introducción a R y RStudio
 [Tutorial](Intro_R.md) 
 
-# Practico 2 - Archivos FASTQ, Control de Calidad y Ensamblaje de Genomas
+# Practico 3 - Archivos FASTQ, Control de Calidad y Ensamblaje de Genomas
 
-## Archivos - Practico 3
+## Archivos
 ### Mega
 Para descargar estos archivos desde `Mega` en tu terminal haz click en los enlaces:
 - [Forward](https://mega.nz/file/0opC1CKA#-4VaMGavon43Ky6nrmgs2vUugI3GP_f912mqtJN_xNA)
