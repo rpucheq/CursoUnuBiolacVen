@@ -58,8 +58,8 @@ Está diseñado para ser realizado en una imagen virtual disponible ya que ésta
 
 Este minicurso consta de tres tipos de análisis:
 
-- amplicons 16S
-- metagenomas
-- ensamble del genoma del virus SARS-Cov2 de COVID.
+- [amplicons 16S](https://sites.google.com/ciad.mx/cursobioinfomicrob/16s-v4?authuser=0)
+- [metagenomas](https://sites.google.com/ciad.mx/cursobioinfomicrob/visualizaci%C3%B3n?authuser=0)
+- [ensamble del genoma del virus SARS-Cov2 de COVID](https://sites.google.com/ciad.mx/cursobioinfomicrob/sars-cov-2?authuser=0)
 
 [Tutoriales e instalacion de maquina virtual](https://sites.google.com/ciad.mx/cursobioinfomicrob/curso-biolac)
