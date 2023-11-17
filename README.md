@@ -10,6 +10,11 @@ Repositorio de informacion del **material practico** para el Curso UnuBiolac Ven
 
 - [Bruno Gomez Gil](https://twitter.com/brunogomezgil)
 
+# Material de Apoyo
+- [Presentaciones](Presentaciones)
+- [Instalacion de maquina virtual](https://sites.google.com/ciad.mx/cursobioinfomicrob/instalacion?authuser=0)
+
+
 
 # Dia 1 (Martes)
 ## Practico 1 - Linea de Comandos
