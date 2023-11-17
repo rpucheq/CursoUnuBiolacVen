@@ -11,7 +11,7 @@ Repositorio de informacion del **material practico** para el Curso UnuBiolac Ven
 - [Bruno Gomez Gil](https://twitter.com/brunogomezgil)
 
 
-# Dia 1 (Martes) - Rafael Puche y Fernando Hernandez
+# Dia 1 (Martes)
 ## Practico 1 - Linea de Comandos
 ## Temario
 
@@ -32,7 +32,7 @@ Usa comandos como `cat`, `less`, `head`, `tail`, `sort`, `uniq` y `grep` para ve
 ## Práctico 2 - Introducción a R y RStudio
 [Tutorial](Intro_R.md) 
 
-# Dia 3 (Miercoles) - Rafael Puche y Fernando Hernandez
+# Dia 3 (Miercoles)
 ## Practico 3 - Archivos FASTQ, Control de Calidad y Ensamblaje de Genomas
 
 ## Archivos
