@@ -13,7 +13,7 @@ Repositorio de informacion del **material practico** para el Curso UnuBiolac Ven
 # Material de Apoyo
 - [Presentaciones](Presentaciones)
 - [Instalacion de maquina virtual](https://sites.google.com/ciad.mx/cursobioinfomicrob/instalacion?authuser=0)
-
+- [Programas Usados](https://drive.google.com/drive/folders/1C-PAQRT5S3GXCt5GeJf1JOnfKdj_Q6MU?usp=sharing)
 
 
 # Dia 1 (Martes)
