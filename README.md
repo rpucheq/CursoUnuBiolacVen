@@ -1,13 +1,13 @@
 # CursoUnuBiolacVen 2023 
-Repositorio de informacion para el Curso UnuBiolac Venezuela (INHRR)
+Repositorio de informacion del **material practico** para el Curso UnuBiolac Venezuela (INHRR)
 
-- Rafael Puche
+- [Rafael Puche](https://twitter.com/rpucheq)
 
-- Fernando Hernandez
+- [Fernando Hernandez](https://twitter.com/fernandoh76)
 
-- Ascanio Rojas
+- [Ascanio Rojas](https://twitter.com/bioinfoula)
 
-- Bruno Gomez Gil
+- [Bruno Gomez Gil](https://twitter.com/brunogomezgil)
 
 
 # Dia 1 (Martes)
