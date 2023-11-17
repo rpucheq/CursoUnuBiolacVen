@@ -11,7 +11,7 @@ Repositorio de informacion del **material practico** para el Curso UnuBiolac Ven
 - [Bruno Gomez Gil](https://twitter.com/brunogomezgil)
 
 
-# Dia 1 (Martes)
+# Dia 1 (Martes) - Rafael Puche y Fernando Hernandez
 ## Practico 1 - Linea de Comandos
 ## Temario
 
@@ -32,7 +32,7 @@ Usa comandos como `cat`, `less`, `head`, `tail`, `sort`, `uniq` y `grep` para ve
 ## Práctico 2 - Introducción a R y RStudio
 [Tutorial](Intro_R.md) 
 
-# Dia 3 (Miercoles)
+# Dia 3 (Miercoles) - Rafael Puche y Fernando Hernandez
 ## Practico 3 - Archivos FASTQ, Control de Calidad y Ensamblaje de Genomas
 
 ## Archivos
@@ -53,4 +53,11 @@ Emplear SPAdes como ensamblador *de novo* para un genoma problema
 
 ### [Tutorial](https://github.com/rpucheq/NGS_data_analysis/blob/main/Practicos/Practico_2.md)
 
-# Dia 4 (Jueves)
+# Dia 4 (Jueves) - Prof. Bruno Gomez Gil 
+Está diseñado para ser realizado en una imagen virtual disponible ya que ésta tiene precargados los programas, scripts y bases de datos que se utilizarán, por lo que hay primero que instalarla.
+
+Este minicurso consta de tres tipos de análisis:
+
+- amplicons 16S
+- metagenomas
+- ensamble del genoma del virus SARS-Cov2 de COVID.
