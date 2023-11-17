@@ -1,15 +1,17 @@
-# CursoUnuBiolacVen 2023 - Dia 1 (Martes)
+# CursoUnuBiolacVen 2023 
 Repositorio de informacion para el Curso UnuBiolac Venezuela (INHRR)
 
--Rafael Puche
+- Rafael Puche
 
--Fernando Hernandez
+- Fernando Hernandez
 
--Ascanio Rojas
+- Ascanio Rojas
 
--Bruno Gomez Gil
+- Bruno Gomez Gil
 
-# Practico 1 - Linea de Comandos
+
+# Dia 1 (Martes)
+## Practico 1 - Linea de Comandos
 ## Temario
 
 ### 1. Navegación en el sistema de archivos: 
@@ -26,10 +28,11 @@ Usa comandos como `cat`, `less`, `head`, `tail`, `sort`, `uniq` y `grep` para ve
 
 [0800-Comandos](Intro_CLI.md) 
 
-# Práctico 2 - Introducción a R y RStudio
+## Práctico 2 - Introducción a R y RStudio
 [Tutorial](Intro_R.md) 
 
-# Practico 3 - Archivos FASTQ, Control de Calidad y Ensamblaje de Genomas
+# Dia 3 (Miercoles)
+## Practico 3 - Archivos FASTQ, Control de Calidad y Ensamblaje de Genomas
 
 ## Archivos
 ### Mega
@@ -48,3 +51,5 @@ Evaluar la calidad de diversos archivos FASTQ usando la herramienta FASTQC
 Emplear SPAdes como ensamblador *de novo* para un genoma problema
 
 ### [Tutorial](https://github.com/rpucheq/NGS_data_analysis/blob/main/Practicos/Practico_2.md)
+
+# Dia 4 (Jueves)
