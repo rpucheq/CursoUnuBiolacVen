@@ -58,7 +58,7 @@ Emplear SPAdes como ensamblador *de novo* para un genoma problema
 
 ### [Tutorial](https://github.com/rpucheq/NGS_data_analysis/blob/main/Practicos/Practico_2.md)
 
-# Dia 4 y 5 (Jueves) - Prof. Bruno Gomez Gil 
+# Dia 4 y 5 (Jueves y Viernes) - Prof. Bruno Gomez Gil 
 Está diseñado para ser realizado en una imagen virtual disponible ya que ésta tiene precargados los programas, scripts y bases de datos que se utilizarán, por lo que hay primero que instalarla.
 
 Este minicurso consta de tres tipos de análisis:
