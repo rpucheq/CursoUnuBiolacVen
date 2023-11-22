@@ -4,7 +4,7 @@ Repositorio de informacion del **material practico** para el Curso UnuBiolac Ven
 
 - [Rafael Puche](https://twitter.com/rpucheq)
 
-- [Fernando Hernandez](https://twitter.com/fernandoh76)
+- [Fernando Hernandez](https://twitter.com/Nandox_85)
 
 - [Ascanio Rojas](https://twitter.com/bioinfoula)
 
